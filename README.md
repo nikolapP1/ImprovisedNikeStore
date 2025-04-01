@@ -1,7 +1,6 @@
-![Alt text](![nike-factory-store-logo-png_seeklogo-358367](https://github.com/user-attachments/assets/2842c6a6-a14e-4817-83f1-ed7aee8bdf1b)
-)
 
-
+<img src="![nike-factory-store-logo-png_seeklogo-358367](https://github.com/user-attachments/assets/83775489-30f8-4138-b2bc-96b7b71f5900)
+" alt="Alt text" width="500">
 
 
 
